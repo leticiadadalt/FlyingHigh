@@ -19,7 +19,7 @@ total aproveitamento e organização de sua próxima viagem. </p>
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 
 ## Requisitos Funcionais
-
+<p align="justify">
 * <b>RF01 – Cadastro de usuários: </b>Usuários podem criar uma conta na aplicação.
 
 * <b>RF02 – Cadastro de viagens: </b>Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
@@ -28,10 +28,10 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 * <b>RF04 – Cadastramento de roteiros e "to do list": </b>Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
 
-* <b>RF05 – Compartilhamento de viagem: </b>Usuários devem poder compartilhar a viagem com outros participantes.
+* <b>RF05 – Compartilhamento de viagem: </b>Usuários devem poder compartilhar a viagem com outros participantes.</p>
 
 ## Requisitos Não Funcionais
-
+<p align="justify">
 * <b>RNF01 – Desempenho: </b>Garantir baixa latência na execução de comandos e atualizações de estado.
 
 * <b>RNF02 – Escalabilidade: </b>Capaz de lidar com um número crescente de usuários e dispositivos.
@@ -40,12 +40,12 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 * <b>RNF04 – Usabilidade: </b>Interface amigável para facilitar o uso, especialmente para usuários não técnicos.
 
-* <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.
+* <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.</p>
 
 ## Persona
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 ## Cenários
-
+<p align="justify">
 * <b>Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.<br/>
 `1 - ` Em seu smartphone, João pesquisa pelo aplicativo na app store. <br/>
 `2 - ` Inicia o download da aplicação.<br/>
@@ -57,7 +57,7 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 * <b>Cadastramento de Roteiros e "to do list": </b>
 
-* <b>Compartilhamento de Viagem: </b>
+* <b>Compartilhamento de Viagem: </b></p>
 
 ## Protótipos
 
