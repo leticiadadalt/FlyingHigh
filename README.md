@@ -26,7 +26,7 @@ total aproveitamento e organização de sua próxima viagem.
 
 * <b>RF03 – Cadastramento de requisitos de viagem: </b>Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações.
 
-* <b>RF04 – Cadastramento de roteiros e to-dos: </b>Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
+* <b>RF04 – Cadastramento de roteiros e "to do list": </b>Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
 
 * <b>RF05 – Compartilhamento de viagem: </b>Usuários devem poder compartilhar a viagem com outros participantes.
 
@@ -45,6 +45,19 @@ total aproveitamento e organização de sua próxima viagem.
 ## Persona
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 ## Cenários
+
+* <b>Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.
+`1 - `: Em seu smartphone, João pesquisa pelo aplicativo na app store. 
+`2 - `: Inicia o download da aplicação.
+`3 - `: Após o download, abre o aplicativo e preenche o formulário de cadastro.
+
+* <b>Cadastro de Viagens: </b>
+
+* <b>Cadastramento de Requisitos de viagem: </b>
+
+* <b>Cadastramento de Roteiros e "to do list": </b>
+
+* <b>Compartilhamento de Viagem: </b>
 
 ## Protótipos
 
