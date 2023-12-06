@@ -46,10 +46,10 @@ total aproveitamento e organização de sua próxima viagem.
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 ## Cenários
 
-* <b>Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.
-`1 - `: Em seu smartphone, João pesquisa pelo aplicativo na app store. 
-`2 - `: Inicia o download da aplicação.
-`3 - `: Após o download, abre o aplicativo e preenche o formulário de cadastro.
+* <b>Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.<br/>
+`1 - ` Em seu smartphone, João pesquisa pelo aplicativo na app store. <br/>
+`2 - ` Inicia o download da aplicação.<br/>
+`3 - ` Após o download, abre o aplicativo e preenche o formulário de cadastro.<br/>
 
 * <b>Cadastro de Viagens: </b>
 
