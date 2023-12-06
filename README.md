@@ -50,7 +50,7 @@ total aproveitamento e organização de sua próxima viagem.
 
 ## Cenários
 
-* <b> Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.
+* <b> Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o <i>FlyingHigh</i> para simplificar suas viagens.
 1. Em seu smartphone, João pesquisa pelo aplicativo na app store. 
 2. Inicia o download da aplicação.
 3. Após o download, abre o aplicativo e preenche o formulário de cadastro.
@@ -72,10 +72,10 @@ total aproveitamento e organização de sua próxima viagem.
 2. Clica em <i> Minhas viagens</i>.
 3. Seleciona a viagem desejada. 
 4. Clica em <i> Adicionar atividades</i>.
-5. Informa a data, local e descrição da atividade (como por exemplo “fazer check in no Airbnb”). 
+5. Informa a data, local e descrição da atividade (como por exemplo <i>fazer check in no Airbnb</i>). 
 6. Define uma to-do list para essa atividade (mandar mensagem para o host, confirmar senha da wifi, etc).
 
-* <b>Compartilhamento de Viagem: </b>Agora que a viagem está devidamente planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
+* <b>Compartilhamento de Viagem: </b>Com a viagem planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
 1. João acessa a ferramenta.
 2. Clica em <i> Minhas viagens</i>.
 3. Seleciona a viagem desejada.
