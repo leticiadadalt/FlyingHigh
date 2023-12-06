@@ -4,11 +4,15 @@
 
 ## Sobre o projeto
 
+<p align="justify">
+
  <i>FlyingHigh</i> é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. 
 Permite que usuários definam roteiros, incluindo coordenadas (com visualização em mapa) e avaliação de locais visitados. Pode também sugerir opções da
 redondeza baseado na localização do usuário, tempo disponível e também avaliações de outros usuários. Possibilita também a definição de requisitos para
 a viagem (como por exemplo documentação, vacinação e etc) com possibilidade de alertas, além da criação de “to-do lists” para cada dias, garantindo um 
 total aproveitamento e organização de sua próxima viagem. 
+
+</p>
 
 ## Indice/Sumário
 * [Sobre o projeto](#Sobre-o-projeto)
