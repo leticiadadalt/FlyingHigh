@@ -31,6 +31,20 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 * <b>RF05 – Compartilhamento de viagem: </b>Usuários devem poder compartilhar a viagem com outros participantes.</p>
 
+
+<p align="justify">
+
+* `RF01 – Cadastro de usuários:` Usuários podem criar uma conta na aplicação.
+
+* `RF02 – Cadastro de viagens:` Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
+
+* `RF03 – Cadastramento de requisitos de viagem:` Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações.
+
+* `RF04 – Cadastramento de roteiros e "to do list":` Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
+
+* `RF05 – Compartilhamento de viagem:` Usuários devem poder compartilhar a viagem com outros participantes.</p>
+
+
 ## Requisitos Não Funcionais
 <p align="justify">
 
