@@ -62,9 +62,9 @@ total aproveitamento e organização de sua próxima viagem.
 
 <b>Cadastramento de Requisitos de viagem: </b> João gostaria de definir os requisitos de sua viagem.
 1. João acessa a ferramenta.
-2. Clica em <b Minhas viagens/>.
+2. Clica em <b> Minhas viagens</b>.
 3. Seleciona a viagem desejada.
-4. Clica em <b Adicionar requisito/>.
+4. Clica em <b> Adicionar requisito</b>.
 5.	Fornece as informações do requisito, como nome, data limite, notificações, etc.
 
 #### Cadastramento de Roteiros e "to do list": João gostaria de começar a planejar sua viagem
