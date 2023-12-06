@@ -1,14 +1,14 @@
 <h1 align="center">FLYING HIGH</h1>
 
-
+<p align="justify">
 
 ## Sobre o projeto
 
-<p align="justify"> *FlyingHigh* é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. 
+ <i>FlyingHigh</i> é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. 
 Permite que usuários definam roteiros, incluindo coordenadas (com visualização em mapa) e avaliação de locais visitados. Pode também sugerir opções da
 redondeza baseado na localização do usuário, tempo disponível e também avaliações de outros usuários. Possibilita também a definição de requisitos para
 a viagem (como por exemplo documentação, vacinação e etc) com possibilidade de alertas, além da criação de “to-do lists” para cada dias, garantindo um 
-total aproveitamento e organização de sua próxima viagem. </p>
+total aproveitamento e organização de sua próxima viagem. 
 
 ## Indice/Sumário
 * [Sobre o projeto](#Sobre-o-projeto)
@@ -19,20 +19,6 @@ total aproveitamento e organização de sua próxima viagem. </p>
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 
 ## Requisitos Funcionais
-<p align="justify">
-
-* <b>RF01 – Cadastro de usuários: </b>Usuários podem criar uma conta na aplicação.
-
-* <b>RF02 – Cadastro de viagens: </b>Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
-
-* <b>RF03 – Cadastramento de requisitos de viagem: </b>Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações.
-
-* <b>RF04 – Cadastramento de roteiros e "to do list": </b>Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
-
-* <b>RF05 – Compartilhamento de viagem: </b>Usuários devem poder compartilhar a viagem com outros participantes.</p>
-
-
-<p align="justify">
 
 `RF01 – Cadastro de usuários:` Usuários podem criar uma conta na aplicação.
 
@@ -42,11 +28,11 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 `RF04 – Cadastramento de roteiros e "to do list":` Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
 
-`RF05 – Compartilhamento de viagem:` Usuários devem poder compartilhar a viagem com outros participantes.</p>
+`RF05 – Compartilhamento de viagem:` Usuários devem poder compartilhar a viagem com outros participantes.
 
 
 ## Requisitos Não Funcionais
-<p align="justify">
+
 
 * <b>RNF01 – Desempenho: </b>Garantir baixa latência na execução de comandos e atualizações de estado.
 
@@ -56,31 +42,31 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 * <b>RNF04 – Usabilidade: </b>Interface amigável para facilitar o uso, especialmente para usuários não técnicos.
 
-* <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.</p>
+* <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.
 
 ## Persona
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 ## Cenários
-<p align="justify">
 
-### <b> Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.<br/>
-1. Em seu smartphone, João pesquisa pelo aplicativo na app store. <br/>
-2. Inicia o download da aplicação.<br/>
-3. Após o download, abre o aplicativo e preenche o formulário de cadastro.<br/>
 
-### <b>Cadastro de Viagens: </b> João gostaria de cadastrar sua primeira viagem no app.
-1. João acessa a ferramenta.
-2. Clica em “Cadastrar viagem”.
-3. Preenche os dados básicos como duração, origem/partida, dias em cada local, etc.
+#### <b> Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.
+1. Em seu smartphone, João pesquisa pelo aplicativo na app store. 
+2. Inicia o download da aplicação.
+3. Após o download, abre o aplicativo e preenche o formulário de cadastro.
 
-### <b>Cadastramento de Requisitos de viagem: </b> João gostaria de definir os requisitos de sua viagem.
+<b>Cadastro de Viagens: </b> João gostaria de cadastrar sua primeira viagem no app.<br/>
+1. João acessa a ferramenta.<br/>
+2. Clica em “Cadastrar viagem”.<br/>
+3. Preenche os dados básicos como duração, origem/partida, dias em cada local, etc.<br/>
+
+<b>Cadastramento de Requisitos de viagem: </b> João gostaria de definir os requisitos de sua viagem.
 1. João acessa a ferramenta.
 2. Clica em “Minhas viagens”.
 3. Seleciona a viagem desejada.
 4. Clica em"Adicionar requisito".
 5.	Fornece as informações do requisito, como nome, data limite, notificações, etc.
 
-### <b>Cadastramento de Roteiros e "to do list": </b> João gostaria de começar a planejar sua viagem
+### Cadastramento de Roteiros e "to do list": João gostaria de começar a planejar sua viagem
 1. João acessa a ferramenta.
 2. Clica em “Minhas viagens”.
 3. Seleciona a viagem desejada. 
@@ -88,13 +74,13 @@ total aproveitamento e organização de sua próxima viagem. </p>
 5. Informa a data, local e descrição da atividade (como por exemplo “fazer check in no Airbnb”). 
 6. Define uma to-do list para essa atividade (mandar mensagem para o host, confirmar senha da wifi, etc).
 
-### <b>Compartilhamento de Viagem: </b> Agora que a viagem está devidamente planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
+### Compartilhamento de Viagem: Agora que a viagem está devidamente planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
 1. João acessa a ferramenta.
 2. Clica em "Minhas viagens".
 3. Seleciona a viagem desejada.
 4. Clica em "Compartilhar viagem".
 
-</p>
+
 
 ## Protótipos
 
@@ -107,3 +93,6 @@ total aproveitamento e organização de sua próxima viagem. </p>
 ## Licença
 
 ## Agradecimentos
+
+
+</p>
