@@ -57,29 +57,29 @@ total aproveitamento e organização de sua próxima viagem.
 
 <b>Cadastro de Viagens: </b> João gostaria de cadastrar sua primeira viagem no app.<br/>
 1. João acessa a ferramenta.<br/>
-2. Clica em “Cadastrar viagem”.<br/>
+2. Clica em <b>Cadastrar viagem </b>.<br/>
 3. Preenche os dados básicos como duração, origem/partida, dias em cada local, etc.<br/>
 
 <b>Cadastramento de Requisitos de viagem: </b> João gostaria de definir os requisitos de sua viagem.
 1. João acessa a ferramenta.
-2. Clica em “Minhas viagens”.
+2. Clica em <b Minhas viagens/>.
 3. Seleciona a viagem desejada.
-4. Clica em"Adicionar requisito".
+4. Clica em <b Adicionar requisito/>.
 5.	Fornece as informações do requisito, como nome, data limite, notificações, etc.
 
-### Cadastramento de Roteiros e "to do list": João gostaria de começar a planejar sua viagem
+#### Cadastramento de Roteiros e "to do list": João gostaria de começar a planejar sua viagem
 1. João acessa a ferramenta.
-2. Clica em “Minhas viagens”.
+2. Clica em **Minhas viagens**.
 3. Seleciona a viagem desejada. 
-4. Clica em “Adicionar atividades”.
+4. Clica em **Adicionar atividades**.
 5. Informa a data, local e descrição da atividade (como por exemplo “fazer check in no Airbnb”). 
 6. Define uma to-do list para essa atividade (mandar mensagem para o host, confirmar senha da wifi, etc).
 
-### Compartilhamento de Viagem: Agora que a viagem está devidamente planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
+#### Compartilhamento de Viagem: Agora que a viagem está devidamente planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
 1. João acessa a ferramenta.
-2. Clica em "Minhas viagens".
+2. Clica em **Minhas viagens**.
 3. Seleciona a viagem desejada.
-4. Clica em "Compartilhar viagem".
+4. Clica em **Compartilhar viagem**.
 
 
 
