@@ -20,6 +20,7 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 ## Requisitos Funcionais
 <p align="justify">
+
 * <b>RF01 – Cadastro de usuários: </b>Usuários podem criar uma conta na aplicação.
 
 * <b>RF02 – Cadastro de viagens: </b>Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
@@ -32,6 +33,7 @@ total aproveitamento e organização de sua próxima viagem. </p>
 
 ## Requisitos Não Funcionais
 <p align="justify">
+
 * <b>RNF01 – Desempenho: </b>Garantir baixa latência na execução de comandos e atualizações de estado.
 
 * <b>RNF02 – Escalabilidade: </b>Capaz de lidar com um número crescente de usuários e dispositivos.
@@ -46,6 +48,7 @@ total aproveitamento e organização de sua próxima viagem. </p>
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 ## Cenários
 <p align="justify">
+
 * <b>Cadastro de Usuários: </b>João gostaria de iniciar a utilizar o FlyingHigh para simplificar suas viagens.<br/>
 `1 - ` Em seu smartphone, João pesquisa pelo aplicativo na app store. <br/>
 `2 - ` Inicia o download da aplicação.<br/>
