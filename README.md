@@ -7,11 +7,11 @@
 <p align="justify"><i>FlyingHigh</i> é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. 
 Permite que usuários definam roteiros, incluindo coordenadas (com visualização em mapa) e avaliação de locais visitados. Pode também sugerir opções da
 redondeza baseado na localização do usuário, tempo disponível e também avaliações de outros usuários. Possibilita também a definição de requisitos para
-a viagem (como por exemplo documentação, vacinação e etc) com possibilidade de alertas, além da criação de “to-do lists” para cada dias, garantindo um 
+a viagem (como por exemplo documentação, vacinação e etc) com possibilidade de alertas, além da criação de <i>"to-do lists"</i> para cada dias, garantindo um 
 total aproveitamento e organização de sua próxima viagem. 
 </p>
 
-## Indice/Sumário
+## Sumário
 * [Sobre o projeto](#Sobre-o-projeto)
 * [Requisitos Funcionais](#Requisitos-Funcionais)
 * [Requisitos Não Funcionais](#Requisitos-Não-Funcionais)
@@ -21,15 +21,13 @@ total aproveitamento e organização de sua próxima viagem.
 
 ## Requisitos Funcionais
 
-`RF01 – Cadastro de usuários:` Usuários podem criar uma conta na aplicação.
+* <b>RF01 – Cadastro de usuários:</b> Usuários podem criar uma conta na aplicação.
+* <b>RF02 – Cadastro de viagens:</b> Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
 
-`RF02 – Cadastro de viagens:` Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.
+* <b>RF03 – Cadastramento de requisitos de viagem:</b> Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações.
 
-`RF03 – Cadastramento de requisitos de viagem:` Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações.
-
-`RF04 – Cadastramento de roteiros e "to do list":` Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
-
-`RF05 – Compartilhamento de viagem:` Usuários devem poder compartilhar a viagem com outros participantes.
+* <b>RF04 – Cadastramento de roteiros e "to do list":</b> Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.
+* <b>RF05 – Compartilhamento de viagem:</b> Usuários devem poder compartilhar a viagem com outros participantes.
 
 
 ## Requisitos Não Funcionais
@@ -84,6 +82,28 @@ total aproveitamento e organização de sua próxima viagem.
 ## Protótipos
 
 ## Tecnologias Usadas
+
+Front:
+React - 
+
+Typescript ou Javascript
+
+Flutter - 
+
+Back:
+Node.js
+Mongo ou MySQL
+APIs Restful
+Autenticação e autorização
+Notificações- 
+
+Mapas:
+Google maps API
+
+Controle de versão - git
+Testes - implementação de testes unitários
+Deploy e hospedagem - aws
+
 
 ## Contribuição
 
