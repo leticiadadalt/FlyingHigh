@@ -31,16 +31,17 @@ total aproveitamento e organização de sua próxima viagem.
 ## Requisitos Não Funcionais
 
 
-* <b>RNF01 – Desempenho: </b>Garantir baixa latência na execução de comandos e atualizações de estado.
+<p align="justify">
+<b>RNF01 – Desempenho: </b>Garantir baixa latência na execução de comandos e atualizações de estado.
 
-* <b>RNF02 – Escalabilidade: </b>Capaz de lidar com um número crescente de usuários e dispositivos.
+<b>RNF02 – Escalabilidade: </b>Capaz de lidar com um número crescente de usuários e dispositivos.
 
-* <b>RNF03 – Segurança: </b>Implementar medidas robustas de segurança para dados de usuários e controle de dispositivos.
+<b>RNF03 – Segurança: </b>Implementar medidas robustas de segurança para dados de usuários e controle de dispositivos.
 
-* <b>RNF04 – Usabilidade: </b>Interface amigável para facilitar o uso, especialmente para usuários não técnicos.
+<b>RNF04 – Usabilidade: </b>Interface amigável para facilitar o uso, especialmente para usuários não técnicos.
 
-* <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.
-
+<b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.
+</p>
 ## Persona
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 
