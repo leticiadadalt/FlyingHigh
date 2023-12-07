@@ -42,6 +42,7 @@ total aproveitamento e organização de sua próxima viagem.
 
 <b>RNF05 – Disponibilidade: </b>O aplicativo deve ser compatível com iOS e Android, e disponibilizado nas App Stores oficiais.
 </p>
+
 ## Persona
 ![Aqui nesta imagem se encontra a persona do projeto.](persona.png)
 
