@@ -4,11 +4,7 @@
 
 ## Sobre o projeto
 
-<p align="justify"><i>FlyingHigh</i> é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. 
-Permite que usuários definam roteiros, incluindo coordenadas (com visualização em mapa) e avaliação de locais visitados. Pode também sugerir opções da
-redondeza baseado na localização do usuário, tempo disponível e também avaliações de outros usuários. Possibilita também a definição de requisitos para
-a viagem (como por exemplo documentação, vacinação e etc) com possibilidade de alertas, além da criação de <i>"to-do lists"</i> para cada dias, garantindo um 
-total aproveitamento e organização de sua próxima viagem. 
+<p align="justify"><i>FlyingHigh</i> é um aplicativo desenvolvido para plataformas mobile com o intuito de auxiliar no planejamento e gerenciamento de viagens pessoais. Permite que usuários definam roteiros e <i>"to-do lists"</i> para cada dia, garantindo um total aproveitamento e organização de sua próxima viagem. Permite ainda o compartilhamento das informações com acompanhantes.
 </p>
 
 ## Sumário
@@ -22,10 +18,9 @@ total aproveitamento e organização de sua próxima viagem.
 ## Requisitos Funcionais
 
 <p align="justify"><b>RF01 – Cadastro de usuários:</b> Usuários podem criar uma conta na aplicação.</p>
-<p align="justify"><b>RF02 – Cadastro de viagens:</b> Usuários podem cadastrar viagens no aplicativo, incluindo prazos e informações de voos.</p>
-<p align="justify"><b>RF03 – Cadastramento de requisitos de viagem:</b> Usuários podem cadastrar requisitos para uma viagem, além de definir prazos para receber alertas e notificações. </p>
-<p align="justify"><b>RF04 – Cadastramento de roteiros e "to do list":</b> Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, e opções de locomoção.</p>
-<p align="justify"><b>RF05 – Compartilhamento de viagem:</b> Usuários devem poder compartilhar a viagem com outros participantes.</p>
+<p align="justify"><b>RF02 – Cadastro de viagens:</b> Usuários podem cadastrar viagens no aplicativo.</p>
+<p align="justify"><b>RF03 – Cadastramento de roteiros e "to do list":</b> Permite que o usuário defina o roteiro e itinerário da viagem, como passeios, locais, restaurantes, etc.</p>
+<p align="justify"><b>RF04 – Compartilhamento de viagem:</b> Usuários devem poder compartilhar a viagem com outros participantes.</p>
 
 
 ## Requisitos Não Funcionais
@@ -56,30 +51,48 @@ total aproveitamento e organização de sua próxima viagem.
 * <b>Cadastro de Viagens: </b>João gostaria de cadastrar sua primeira viagem no app.
 1. João acessa a ferramenta.
 2. Clica em <i>Cadastrar viagem </i>.
-3. Preenche os dados básicos como duração, origem/partida, dias em cada local, etc.
-
-* <b>Cadastramento de Requisitos de viagem: </b>João gostaria de definir os requisitos de sua viagem.
-1. João acessa a ferramenta.
-2. Clica em <i> Minhas viagens</i>.
-3. Seleciona a viagem desejada.
-4. Clica em <i> Adicionar requisito</i>.
-5.	Fornece as informações do requisito, como nome, data limite, notificações, etc.
+3. Preenche os dados básicos como duração, origem, partida, e datas.
+4. Salva a viagem.
 
 * <b>Cadastramento de Roteiros e "to do list": </b>João gostaria de começar a planejar sua viagem
 1. João acessa a ferramenta.
-2. Clica em <i> Minhas viagens</i>.
+2. Clica em <i>Minhas viagens</i>.
 3. Seleciona a viagem desejada. 
-4. Clica em <i> Adicionar atividades</i>.
-5. Informa a data, local e descrição da atividade (como por exemplo <i>fazer check in no Airbnb</i>). 
-6. Define uma to-do list para essa atividade (mandar mensagem para o host, confirmar senha da wifi, etc).
+4. Clica em <i>Criar roteiro</i>.
+5. Seleciona a data, horário e dados da tarefa.
+6. Salva alterações.
+5. No menu anterior, seleciona a opção <i>Criar to do list</i> .
+6. Define uma to-do list para a viagem.
 
 * <b>Compartilhamento de Viagem: </b>Com a viagem planejada, João gostaria de compartilhá-la com sua parceira, Maria Caminho. 
 1. João acessa a ferramenta.
 2. Clica em <i> Minhas viagens</i>.
 3. Seleciona a viagem desejada.
 4. Clica em <i> Compartilhar viagem</i>.
+5. Preenche o email do acompanhante. 
+6. Clica em <i>Compartilhar</i>.
 
 ## Protótipos
+
+
+## Avaliação (Heurísticas de Nielsen)
+
+<table>
+    <thead>
+        <tr>
+            <th>Área</th>
+            <th>Avaliação</th>
+            <th>Nota</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Visibilidade do Status do Sistema</th>
+            <th>O sistema implementa boas práticas para manter os usuários informados sobre o andamento dos processos, com botões de ações visíveis e acessíveis em diversas telas. Como melhoria, seria possível implementar barras de progresso nas telas de cadastro, para que o usuário compreenda o andamento do processo.</th>
+            <th>1 - Problema Cosmético</th>
+        </tr>
+    </tbody>
+</table>
 
 ## Tecnologias Usadas
 
