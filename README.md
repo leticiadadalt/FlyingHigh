@@ -77,22 +77,18 @@
 
 ## Avaliação (Heurísticas de Nielsen)
 
-<table>
-    <thead>
-        <tr>
-            <th>Área</th>
-            <th>Avaliação</th>
-            <th>Nota</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Visibilidade do Status do Sistema</th>
-            <th>O sistema implementa boas práticas para manter os usuários informados sobre o andamento dos processos, com botões de ações visíveis e acessíveis em diversas telas. Como melhoria, seria possível implementar barras de progresso nas telas de cadastro, para que o usuário compreenda o andamento do processo.</th>
-            <th>1 - Problema Cosmético</th>
-        </tr>
-    </tbody>
-</table>
+| Área | Avaliação | Nota |
+| --- | --- |  --- |
+| Visibilidade do status do sistema | O sistema implementa boas práticas para manter os usuários informados sobre o andamento dos processos, com botões de ações visíveis e acessíveis em diversas telas. Como melhoria, seria possível implementar barras de progresso nas telas de cadastro, para que o usuário compreenda o andamento do processo. | 1 - Problema Cosmético |
+| Correspondência entre o sistema e o mundo real | O sistema apresenta linguagem simples, obhetiva e direta. | 0 - Não Concordância |
+| Controle e liberdade do usuário | Atualmente é comum dispositivos mobile não possuiírem um botão físico para voltar, e o sistema atualmente não apresenta botão de voltar nas telas. | 3 - Problema Grande | 
+| Consistência e padrões | O sistema utiliza linguagem, botões e sistema de cores padronizados. | 0 - Não Concordância | 
+| Prevenção de erros | Por não incluir a implementação técnica, este ponto ainda não é 100% avaliável. Por possuir muitos campos de entrada de dados, será muito importante que a aplicação tenha um sistema tratamento de dados robusto. | 3 - Problema Grande | 
+| Reconhecimento ao invés de lembrança | Os comandos e opções dos menus possuem textos e tamanhos que proporcionam um sistema intuitivo. | 0 - Não Concordância |
+| Flexibilidade e eficiência de uso | O sistema atualmente não possibilita um alto nível de customização. Isto não impede a usabilidade do sistema, porém limita os tipoas de interação e fluxos possíveis. | 1 - Problema Pequeno |
+| Estética e design minimalista | O sistema apresenta uma interface simples e direta, proporcionando facilidade no manuseio. | 0 - Não Concordância |
+| Ajude os usuários a reconhecer, diagnosticar e recuperar erros | Por não incluir a implementação técnica, os protótipos atualmente não incluem mensagens de erro. | 3 - Problema Grande | 
+| Ajuda e documentação | A documentação do aplicativo não está completa. Porém, a documentação dos Cenários auxiliam na aprendizagem do sistema. | 2 - Problema Pequeno |
 
 ## Tecnologias Usadas
 
