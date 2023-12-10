@@ -74,7 +74,15 @@
 
 ## Protótipos
 
+### PROTÓTIPO LO-FI
 
+![Propótipo lo-fi](image-1.png)
+
+### PROTÓTIPO HI-FI
+
+![Protótipo hi-fi](image-2.png)
+
+![Protótipo hi-fi 2](image-3.png)
 ## Avaliação (Heurísticas de Nielsen)
 
 | Área | Avaliação | Nota |
@@ -90,37 +98,9 @@
 | Ajude os usuários a reconhecer, diagnosticar e recuperar erros | Por não incluir a implementação técnica, os protótipos atualmente não incluem mensagens de erro. | 3 - Problema Grande | 
 | Ajuda e documentação | A documentação do aplicativo não está completa. Porém, a documentação dos Cenários auxiliam na aprendizagem do sistema. | 2 - Problema Pequeno |
 
-## Tecnologias Usadas
-
-Front:
-React - 
-
-Typescript ou Javascript
-
-Flutter - 
-
-Back:
-Node.js
-Mongo ou MySQL
-APIs Restful
-Autenticação e autorização
-Notificações- 
-
-Mapas:
-Google maps API
-
-Controle de versão - git
-Testes - implementação de testes unitários
-Deploy e hospedagem - aws
-
-
-## Contribuição
-
 ## Autores
 
-## Licença
-
-## Agradecimentos
+Letícia Dadalt
 
 
 </p>
