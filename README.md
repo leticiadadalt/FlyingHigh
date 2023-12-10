@@ -76,13 +76,13 @@
 
 ### PROTÓTIPO LO-FI
 
-![Propótipo lo-fi](image-1.png)
+![Propótipo lo-fi](loFi.png)
 
 ### PROTÓTIPO HI-FI
 
-![Protótipo hi-fi](image-2.png)
+![Protótipo hi-fi](hiFi0.png)
 
-![Protótipo hi-fi 2](image-3.png)
+![Protótipo hi-fi 2](hiFi1.png)
 ## Avaliação (Heurísticas de Nielsen)
 
 | Área | Avaliação | Nota |
